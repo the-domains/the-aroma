@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Aroma]]></title>
+        <description><![CDATA[The Aroma]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Dec 2015 09:13:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Aroma's First Post!]]></title>
+            <description><![CDATA[<article><h1>The Aroma's First Post!</h1><p>We're happy to have you visit this site. Please leave feedback. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d1c4f27-eb5d-4839-a7f4-244b75e690b0.jpg"></article>]]></description>
+            <link>undefinedthe-aromas-first-post/index.html</link>
+            <guid isPermaLink="false">d04743c6-5c0b-48b5-9dec-d54895cb6baf</guid>
+            <pubDate>Thu, 24 Dec 2015 09:13:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
