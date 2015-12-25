@@ -1,28 +1,40 @@
-name: The Aroma
-favicon: null
-layout_spectrum: 0.5653481015469879
-typography_spectrum: 0.6890195491723716
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.4486951718572527
-  lightness: 0.007492138538509607
-  saturation: 0.027626274153590202
-  rhythmicContrast: 0.6732731705997139
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.7688172
+  brandStrength: 0.7867383
+  lightness: 0.1774193
+  brandColors:
+    - '#65270C'
+    - '#F3CE5C'
+    - '#B46502'
+    - '#6F99C5'
+    - '#FCFCFB'
+  rhythmicContrast: 0.6732731
+typography_spectrum: 0.6890195491723716
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2741936
+favicon: null
+name: The Aroma
