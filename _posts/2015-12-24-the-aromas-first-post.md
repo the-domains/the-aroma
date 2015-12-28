@@ -6,16 +6,16 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We're happy to have you visit this site. Please leave feedback. "
-datePublished: '2015-12-24T09:13:29.455Z'
-dateModified: '2015-12-24T09:13:17.028Z'
+datePublished: '2015-12-28T16:31:43.754Z'
+dateModified: '2015-12-28T16:31:10.962Z'
 title: "The Aroma's First Post!"
 author: []
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 sourcePath: _posts/2015-12-24-the-aromas-first-post.md
 published: true
 url: the-aromas-first-post/index.html
