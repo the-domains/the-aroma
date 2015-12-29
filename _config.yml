@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: The Aroma
+favicon: null
+layout_spectrum: 0.2741936
+typography_spectrum: 0.6890195491723716
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7688172
-  brandStrength: 0.7867383
-  lightness: 0.1774193
   brandColors:
     - '#65270C'
     - '#F3CE5C'
     - '#B46502'
     - '#6F99C5'
     - '#FCFCFB'
-  rhythmicContrast: 0.6732731
-typography_spectrum: 0.6890195491723716
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.2741936
-favicon: null
-name: The Aroma
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
+purpose: []
