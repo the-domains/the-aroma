@@ -41,4 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: 'Good Coffee, Great Friends'
 purpose: []
